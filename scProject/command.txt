@@ -1,0 +1,1 @@
+web3j truffle generate build/contracts/RoleSC.json -o /home/lab-info/Bureau/jacamo/jacamo/examples/house-building/src/env/tools/ -p tools
